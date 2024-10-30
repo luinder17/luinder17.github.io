@@ -1,0 +1,9 @@
+cd nombre de usuario.github.io
+
+eco de "Hola Mundo" > index.html
+
+git add --all
+
+git commit -m "Confirmación inicial"
+
+git push -u origen principal
